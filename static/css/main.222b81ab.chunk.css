@@ -1,0 +1,2 @@
+.tabList{display:-webkit-flex;display:flex;padding:0;font-size:24px;list-style:none;border-bottom:1px solid #b6b4b4}.tabList__link{color:#7269f0;text-decoration:none}.tabList__item{padding:10px}.tabList__link:visited{color:#7269f0}.selected{position:relative;border:1px solid #b6b4b4;border-bottom:none;border-top-left-radius:5px;border-top-right-radius:5px}.selected:after{position:absolute;left:0;bottom:-1px;width:100%;height:2px;content:" ";background-color:#fff}
+/*# sourceMappingURL=main.222b81ab.chunk.css.map */
